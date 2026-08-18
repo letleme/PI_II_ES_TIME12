@@ -9,8 +9,9 @@
 * Beatriz Borelli Valadares RA: 26001106
 * Letícia Leme Medeiros RA: 26001789
 * Luísa Moraes Miguel RA: 26000274
-* Sabrina Prates dos Santos RA: 26002779
 * Nicolas Marques Linares RA: 24015266 
+* Sabrina Prates dos Santos RA: 26002779
+
 
 ## Informações Acadêmicas
 
